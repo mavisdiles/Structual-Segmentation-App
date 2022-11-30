@@ -18,27 +18,27 @@
 
 <div align="center">
 <img src="./image/real_2.png" width="100%" height="100%">
-<br><br>
 <b>Figure 1.</b> Ground truth.
+<br><br>
 </div>
 
 <div align="center">
 <img src="./image/ruptures.PNG" width="100%" height="100%">
-<br><br>
 <b>Figure 2.</b> dynp point detection.
+<br><br>
 </div>
 
 <div align="center">
 <img src="./image/rbf_50.PNG" width="100%" height="100%">
-<br><br>
 <b>Figure 3.</b> pelt point detection.
+<br><br>
 </div>
 
 ## Application architecture
 <div align="center">
 <img src="./image/그림1.png" width="100%" height="100%">
-<br><br>
 <b>Figure 4.</b> UI/UX.
+<br><br>
 </div>
 
 ## Reference
