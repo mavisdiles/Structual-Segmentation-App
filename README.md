@@ -1,4 +1,4 @@
-# demagnetization-prediction
+# Structual-Segmentation App based on Spectral centroid
 
 ## About the Project
 최근 유행하는 15초에서 10분 사이의 동영상 숏폼(short form)에서 사용자는 짧은 시간 동안 자신의 콘텐츠와 어울리는 음악 구간과 타이밍을 직접 찾아서 재생해야 하는 어려움이 있다. 본 연구에서는 이런 불편한 점을 개선하기 위해 2가지 기술적 목표를 가지고 있다. 첫 번째는, 최신 곡 유행 트렌드에 잘 맞고 사용자가 간편하게 이용할 수 있는 Spectral centroid 변화 감지를 이용한 곡 구조 분해(structural segmentation) 기능의 구현이다. 두 번째는, 이미 선정된 곡에 대하여 사용자의 콘텐츠와 어울리는 곡의 구간을 찾기 위해 사용자의 표정인식을 이용한 감정 태그로 구간을 매핑시키는 것이다. 이와 같은 기능을 구현한 어플리케이션을 제안하여 콘텐츠 시장의 다양화와 기술적 성취에 기여한다
@@ -23,13 +23,13 @@
 </div>
 
 <div align="center">
-<img src="./image/ruptures.png" width="100%" height="100%">
+<img src="./image/ruptures.PNG" width="100%" height="100%">
 <br><br>
 <b>Figure 2.</b> dynp point detection.
 </div>
 
 <div align="center">
-<img src="./image/rbf_50.png" width="100%" height="100%">
+<img src="./image/rbf_50.PNG" width="100%" height="100%">
 <br><br>
 <b>Figure 3.</b> pelt point detection.
 </div>
