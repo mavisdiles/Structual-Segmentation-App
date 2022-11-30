@@ -41,9 +41,13 @@
 <b>Figure 4.</b> UI/UX.
 </div>
 
-## Refernce
+## Reference
 [1] Vande Veire and De Bie, “From raw audio to a seamless mix: creating an automated DJ system for Drum and Bass”, EURASIP Journal on Audio, Speech, and Music Processing, 2018
+
 [2] Charles Truonga, Laurent Oudreb, Nicolas Vayatis, “Selective review of offline change point detection methods”, Accepted to Signal Processing, 2020
+
 [3] https://github.com/omar178/Emotion-recognition
+
 [4] https://github.com/oarriaga/face_classification
+
 [5] Tommy Swindali, “Music Production: The Advanced Guide On How to Produce for Music Producers”,2019
