@@ -14,7 +14,7 @@
 2) 요즘 곡은 편곡 방식이 다양해서, RMS가 높다고 main 구간으로 보기는 어렵다. 
 
 <div align="center">
-<img src="./image/spectral_centroid.png" width="100%" height="100%">
+<img src="./image/spectral_centroid.png" width="50%" height="50%">
 Spectral centroid
 <br><br>
 </div>
