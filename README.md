@@ -15,7 +15,6 @@
 
 <div align="center">
 <img src="./image/spectral_centroid.png" width="50%" height="50%">
-<b>Spectral centroid</b>
 <br><br>
 </div>
 위 2가지 문제점을 spectral centroid를 point detection 진행하는 것으로 해결한다. 
