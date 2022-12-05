@@ -13,6 +13,12 @@
 1) SSM은 복잡도가 커서 곡 분석에 불리하다. 
 2) 요즘 곡은 편곡 방식이 다양해서, RMS가 높다고 main 구간으로 보기는 어렵다. 
 
+<div align="center">
+<img src="./image/spectral_centroid.png" width="100%" height="100%">
+Spectral centroid
+<br><br>
+</div>
+위 2가지 문제점을 spectral centroid를 point detection 진행하는 것으로 해결한다. 
 
 ## Spectral centroid를 이용한 segmentation Experiment Result
 
